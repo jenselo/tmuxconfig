@@ -1,0 +1,9 @@
+pane	0	0	:vim	1	:*	0	:/home/jens/Development/cmakesojo/lte_core/core/src	0	vim	:vim downlink.c
+pane	0	0	:vim	1	:*	1	:/home/jens/Development/cmakesojo/lte_core/core	1	vim	:vim src/downlink.c
+pane	0	1	:picocom	0	:-	0	:/home/jens/Development/bojo/lte_matlab_gui/gui	1	MATLAB	:/usr/local/MATLAB/R2016b/bin/glnxa64/MATLAB -nosplash -nodesktop
+pane	0	1	:picocom	0	:-	1	:/home/jens	0	picocom	:picocom -b 115200 /dev/ttyACM0
+pane	0	3	:bash	0	:	0	:/home/jens/Development/cmakesojo/lte_core/core	1	bash	:
+window	0	0	1	:*	548d,319x87,0,0{159x87,0,0,1,159x87,160,0,14}
+window	0	1	0	:-	8726,319x87,0,0{159x87,0,0,10,159x87,160,0,4}
+window	0	3	0	:	69f7,319x87,0,0,18
+state	0	

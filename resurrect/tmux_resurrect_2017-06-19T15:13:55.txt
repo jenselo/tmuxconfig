@@ -1,0 +1,6 @@
+pane	0	0	:bash	1	:*	0	:/home/jens/Development/bojo	1	bash	:
+pane	0	0	:bash	1	:*	1	:/home/jens	0	picocom	:picocom -b 115200 /dev/ttyACM0
+pane	0	1	:bash	0	:-	0	:/home/jens/Development/cmakesojo	1	bash	:
+window	0	0	1	:*	286a,319x87,0,0{159x87,0,0,1,159x87,160,0,2}
+window	0	1	0	:-	69f3,319x87,0,0,14
+state	0	

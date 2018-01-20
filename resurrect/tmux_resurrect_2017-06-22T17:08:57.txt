@@ -1,0 +1,11 @@
+pane	0	2	:vim	0	:	0	:/home/jens/Development/cmakesojo/lte_core/core/src	1	vim	:vim downlink.c
+pane	0	2	:vim	0	:	1	:/home/jens/Development/cmakesojo	0	bash	:
+pane	0	3	:MATLAB	0	:-	0	:/home/jens/Development/bojo/lte_matlab_gui/gui	1	MATLAB	:/usr/local/MATLAB/R2016b/bin/glnxa64/MATLAB -nosplash -nodesktop
+pane	0	3	:MATLAB	0	:-	1	:/home/jens	0	picocom	:picocom -b 115200 /dev/ttyACM0
+pane	0	4	:bash	1	:*	0	:/home/jens/Development/cmakesojo/lte_core/core	1	bash	:
+pane	0	5	:vim	0	:	0	:/home/jens/Development/lte_core-api	1	vim	:vim phy_ctrl_phy_rx_if.h
+window	0	2	0	:	c3ec,319x87,0,0{159x87,0,0,34,159x87,160,0,60}
+window	0	3	0	:-	83eb,319x87,0,0{159x87,0,0,50,159x87,160,0,51}
+window	0	4	1	:*	e9f4,319x87,0,0,63
+window	0	5	0	:	e9f5,319x87,0,0,64
+state	0	

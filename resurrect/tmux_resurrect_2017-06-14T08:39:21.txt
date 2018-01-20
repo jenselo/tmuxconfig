@@ -1,0 +1,9 @@
+pane	0	0	:MATLAB	0	:	0	:/home/jens/Development/bojo/lte_matlab_gui/gui	1	MATLAB	:/usr/local/MATLAB/R2016b/bin/glnxa64/MATLAB -nosplash -nodesktop
+pane	0	0	:MATLAB	0	:	1	:/home/jens	0	picocom	:picocom -b 115200 /dev/ttyACM0
+pane	0	1	:bash	0	:-	0	:/home/jens/Development/cmakesojo/lte_core/core	0	vim	:vim src/broadcast.c
+pane	0	1	:bash	0	:-	1	:/home/jens/Development/cmakesojo	1	bash	:
+pane	0	2	:bash	1	:*	0	:/home/jens/.tmux/plugins	1	bash	:
+window	0	0	0	:	03ec,319x87,0,0{159x87,0,0,22,159x87,160,0,23}
+window	0	1	0	:-	be27,319x87,0,0{159x87,0,0,215,159x87,160,0,217}
+window	0	2	1	:*	7531,319x87,0,0,219
+state	0	

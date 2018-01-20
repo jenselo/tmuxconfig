@@ -1,0 +1,10 @@
+pane	0	0	:bash	1	:*	0	:/home/jens/Development/cmakesojo/lte_core/core	1	bash	:
+pane	0	0	:bash	1	:*	1	:/home/jens/Development/cmakesojo	0	bash	:
+pane	0	1	:picocom	0	:	0	:/home/jens/Development/bojo/lte_matlab_gui/gui	0	MATLAB	:/usr/local/MATLAB/R2016b/bin/glnxa64/MATLAB -nosplash -nodesktop
+pane	0	1	:picocom	0	:	1	:/home/jens	1	picocom	:picocom -b 115200 /dev/ttyACM0
+pane	0	3	:bash	0	:-	0	:/home/jens/Development/bojo	1	bash	:
+pane	0	3	:bash	0	:-	1	:/home/jens/Development/bojo/m-utils/util	0	bash	:
+window	0	0	1	:*	2872,319x87,0,0{159x87,0,0,7,159x87,160,0,6}
+window	0	1	0	:	a86b,319x87,0,0{159x87,0,0,2,159x87,160,0,3}
+window	0	3	0	:-	03ea,319x87,0,0{159x87,0,0,20,159x87,160,0,21}
+state	0	
